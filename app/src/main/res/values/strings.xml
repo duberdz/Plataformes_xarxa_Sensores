@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">proyecto</string>
+
+    <!--Login-->
+    <string name="login_title">Iniciar Sesion</string>
+    <string name="login_user">Email</string>
+    <string name="login_pass">Password</string>
+    <string name="login_button">Go!</string>
+    <string name="not_registry">Crear cuenta</string>
+    <string name="title_activity_home">homeActivity</string>
+    <string name="email_no_valido">El email no es valido</string>
+    <string name="email_vacio">El campo email esta vacio</string>
+    <string name="pass_vacia">La contraseña no puede estar vacia</string>
+    <string name="pass_no_valida">La contraseña no es valida</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
