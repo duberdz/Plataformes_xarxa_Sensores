@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796412306761",
+    "firebase_url": "https://tensile-nebula-270117.firebaseio.com",
+    "project_id": "tensile-nebula-270117",
+    "storage_bucket": "tensile-nebula-270117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796412306761:android:e67bed5d98d648ec01a698",
+        "android_client_info": {
+          "package_name": "com.example.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796412306761-lm2f2k6808lhonmiokld1nkp40b9be19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS50vdJaYc-rBf0uIIJcQcXj4Ko7wjLBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796412306761-lm2f2k6808lhonmiokld1nkp40b9be19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

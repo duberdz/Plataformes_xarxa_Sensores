@@ -15,5 +15,4 @@
         android:id="@+id/ranking"
         android:icon="@drawable/ranking"
         android:title="@string/ranking" />
-
 </menu>
